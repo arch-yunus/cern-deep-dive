@@ -27,13 +27,36 @@ Buradaki temel amaç, dünyanın en karmaşık makinesinin arkasındaki mimari p
 
 ## 🏛️ Bilimsel Kilometre Taşları ve Keşif Paradigmaları
 
-CERN tarihinde, evrenin temel yasalarını yeniden tanımlayan beş kritik bilimsel dönüm noktası bulunmaktadır:
+CERN tarihinde, evrenin temel yasalarını yeniden tanımlayan ve mühendislik sınırlarını zorlayan kritik bilimsel dönüm noktaları bulunmaktadır:
 
-1.  **Nötr Akımların Keşfi (1973):** *Gargamelle* kabarcık odasında yapılan gözlemlerle, zayıf etkileşimlerin "nötr akımlar" vasıtasıyla gerçekleştiği kanıtlanmıştır. Bu, elektrozayıf (electroweak) birleşmenin ilk doğrudan deneysel kanıtıdır.
-2.  **W ve Z Bozonlarının Tespiti (1983):** Süper Proton Sinkrotronu (SPS) üzerindeki UA1 ve UA2 deneyleri, zayıf kuvvetin taşıyıcısı olan W ve Z bozonlarını keşfetmiştir. Bu başarı, Simon van der Meer'in geliştirdiği **"Stochastic Cooling"** adlı mühendislik harikası parçacık odaklama teknolojisi sayesinde mümkün olmuştur.
-3.  **World Wide Web'in İcadı (1989):** Tim Berners-Lee tarafından, CERN fizikçileri arasındaki bilgi transferini harmonize etmek amacıyla geliştirilen HTTP ve HTML protokolleri, bugünkü küresel internet altyapısının temelini oluşturmuştur.
-4.  **Antimadde Sentezi ve Manipülasyonu (1995-2010):** CERN, dünyada ilk kez anti-hidrojen atomlarını sentezlemeyi (1995) ve daha sonra bunları manyetik tuzaklarda (ALPHA deneyi) uzun süre stabil tutmayı (2010) başararak madde-antimadde asimetrisi üzerine kritik veriler sağlamıştır.
-5.  **Higgs Bozonu'nun Keşfi (2012):** ATLAS ve CMS dedektörleri, Standart Model'in eksik halkası olan ve parçacıklara kütle kazandıran **Skaler Bozon'u (Higgs)** tespit etmiştir. Bu keşif, Petabaytlarca veriden istatistiksel anlam çıkarılmasını sağlayan devasa bir veri işleme başarısıdır.
+### 1. Nötr Akımların Keşfi ve Elektrozayıf Doğrulama (1973)
+*Gargamelle* ağır sıvı kabarcık odası (bubble chamber), zayıf etkileşimlerin nötr bir aracı parçacık (Z bozonu) vasıtasıyla gerçekleştiğini kanıtlayarak elektrozayıf teoriyi doğrulamıştır.
+*   **Teknik Mimari:** 4.8 metre uzunluğunda ve 2 metre çapındaki silindirik tank, 12 metreküp sıvı Freon ($CF_3Br$) ile doldurulmuştur. Freon'un yüksek yoğunluğu, nötrino etkileşim olasılığını maksimize etmiştir.
+*   **Mühendislik Dinamiği:** Dedektör, 2-Tesla gücünde bir manyetik alan üreten devasa bir mıknatıs ile çevrelenmiştir. Nötrinoların doğrudan iz bırakmaması nedeniyle, keşif, etkileşim sonrası fırlayan ikincil parçacıkların izlerinin mikroskobik analiziyle mümkün olmuştur.
+
+### 2. UA1/UA2 ve W/Z Bozonlarının Tespiti (1983)
+Zayıf kuvvetin taşıyıcıları olan W ve Z bozonlarının keşfi, Standart Model'in en büyük zaferlerinden biri olarak kabul edilir.
+*   **Accelerator Modifikasyonu:** Keşif için Süper Proton Sinkrotronu (SPS), tarihte ilk kez bir proton-antiproton çarpıştırıcısına (SppS) dönüştürülmüştür.
+*   **Stochastic Cooling:** Nobel ödüllü Simon van der Meer tarafından geliştirilen bu teknoloji, antiproton demetlerini "sıkarak" odaklamış ve çarpışma olasılığını milyarlarca kat artırmıştır.
+*   **Dedektör Farklılıkları:** 
+    *   **UA1:** 5.8 m uzunluğunda, 0.7-Tesla manyetik alanlı kompleks bir görüntüleme odasıdır.
+    *   **UA2:** Daha çok yüksek hassasiyetli elektromanyetik ve hadronik kalorimetrelere odaklanarak enerji ölçümü üzerine uzmanlaşmıştır.
+
+### 3. World Wide Web (WWW) ve Dağıtık Bilgi Mimarisi (1989)
+Tim Berners-Lee tarafından geliştirilen protokoller, CERN'ün küresel veri paylaşım ihtiyacını karşılamak üzere tasarlanmıştır.
+*   **Donanım Platformu:** İlk web sunucusu, bir **NeXTcube** iş istasyonu üzerinde çalıştırılmıştır. Bu makine ilk HTTP sunucu yazılımı, URL sözdizimi ve HTML formatına ev sahipliği yapmıştır.
+*   **Teknik Miras:** CERN, 30 Nisan 1993'te web yazılımını kamu malı (public domain) ilan ederek küresel internet devrimini tetiklemiştir.
+
+### 4. Antimadde Sentezi ve ALPHA Deneyi (1995-2010)
+CERN, antimaddenin üretilmesi, depolanması ve spektroskopik analizi konusunda dünyadaki tek merkezdir.
+*   **AD (Antiproton Decelerator):** Protonları yavaşlatarak "soğuk" antiprotonlar elde eden özelleşmiş bir yavaşlatıcı halkadır.
+*   **ALPHA Deneyi:** Anti-hidrojen atomlarını 1000 saniyeden fazla (2011 rekoru) manyetik tuzaklarda tutmayı başarmıştır. 
+*   **Sympathetic Cooling:** Manyetik tuzak içindeki pozitron plazmalarını lazerle soğutulmuş baryum iyonları kullanarak soğutma tekniği, antimadde üretim verimliliğini 8 kat artırmıştır.
+
+### 5. Higgs Bozonu ve Skaler Alanın Kanıtlanması (2012)
+Higgs alanının varlığı, ATLAS ve CMS deneylerinin bağımsız verileriyle doğrulanmıştır.
+*   **Golden Channels:** Keşif, özellikle $H \to \gamma\gamma$ (iki foton) ve $H \to ZZ^* \to 4\ell$ (dört lepton) bozunma kanallarındaki yüksek sinyallerle elde edilmiştir.
+*   **Analitik Güç:** Parçacığın kütlesi yaklaşık **125.09 GeV** olarak belirlenmiştir. Bu keşif için gereken $5\sigma$ (beş sigma) istatistiksel güvenilirlik eşiği, WLCG Grid sistemi üzerinde işlenen Petabaytlarca ham veri ile aşılmıştır.
 
 ---
 
